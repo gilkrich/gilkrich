@@ -15,6 +15,8 @@
 - 💬 Ask me about **react , javascript , html , css**
 
 - 📫 How to reach me **gildebil2@gmail.com**
+<div aligntext ="center">
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gilkrich&show_icons=true&locale=en" alt="gilkrich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilkrich&" alt="gilkrich" /></p>
+</div>
