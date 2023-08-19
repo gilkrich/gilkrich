@@ -15,10 +15,7 @@
 - 💬 Ask me about **react , javascript , html , css**
 
 - 📫 How to reach me **gildebil2@gmail.com**
-<div style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    row-gap: 30px; ">
+<div align="center">
   
 
 <h3 align="left">Connect with me:</h3>
