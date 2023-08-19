@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Gil Kricheli</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
